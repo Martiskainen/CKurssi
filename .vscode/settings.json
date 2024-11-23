@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "cstdlib": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "l7t1_io.h": "c",
+        "string.h": "c",
+        "l7t2_lista.h": "c",
+        "l7t3_io.h": "c",
+        "l7t3_muisti.h": "c"
+    },
+    "makefile.configureOnOpen": false
+}
